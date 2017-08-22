@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: bestlong stuff
 subtitle:
 description:
 author: John Doe
@@ -79,4 +79,3 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/bestlong/bestlong.github.io.git
-  
